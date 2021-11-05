@@ -3,7 +3,7 @@
 ---
 
 ## Mi primer proyecto
-[Buyer-Persona](https://medium.com/pagina-entrada-blog)
+[Buyer-Persona](https://medium.com/@viridianavz/buyer-persona-qui%C3%A9n-es-y-por-qu%C3%A9-es-importante-6f650a0de873)
 
 En este artículo vamos a proponer un ejemplo sobre como definir a nuestro cliente ideal utilizando DataPrep en Python puedes [seguir leyendo en Medium](https://medium.com/@viridianavz/buyer-persona-qui%C3%A9n-es-y-por-qu%C3%A9-es-importante-6f650a0de873) o [Ver código en GitHub](https://github.com/ViridianaVZ/Buyer_Persona)
 
