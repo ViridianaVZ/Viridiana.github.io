@@ -14,7 +14,7 @@ En este artículo vamos a proponer un ejemplo sobre como definir a nuestro clien
 ### Mis Skills son
 
 - Python
-- R
+- SQL
 - Excel
 - Google Analytics
 - QGis
