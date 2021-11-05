@@ -25,9 +25,9 @@ En este artículo vamos a proponer un ejemplo sobre como definir a nuestro clien
 ### Me puedes contactar por una de estás vías
 
 - [LinkedIn](https://www.linkedin.com/in/viridianavalencia/)
-- Correo electrónico a <hola@viridiana.com.mx>
 - [GitHub](https://github.com/ViridianaVZ/)
 - [Medium](https://medium.com/@viridianavz)
 - [Mi CV](/pdf/plantilla-curriculum-blanco.pdf)
+- O a mi Correo electrónico <hola@viridiana.com.mx> 
 
 ---
