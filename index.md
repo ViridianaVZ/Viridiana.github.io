@@ -5,9 +5,9 @@
 ## Mi primer proyecto
 [Buyer-Persona](https://medium.com/pagina-entrada-blog)
 
-Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium](https://medium.com/pagina-entrada-blog) o [Ver código en GitHub](https://github.com/tu-repo)
+En este artículo vamos a proponer un ejemplo sobre como definir a nuestro cliente ideal utilizando DataPrep en Python puedes [seguir leyendo en Medium](https://medium.com/@viridianavz/buyer-persona-qui%C3%A9n-es-y-por-qu%C3%A9-es-importante-6f650a0de873) o [Ver código en GitHub](https://github.com/ViridianaVZ/Buyer_Persona)
 
-[<img src="images/dummy_thumbnail.jpg?raw=true"/>](https://medium.com/pagina-entrada-blog)
+[<img src="images/dummy_thumbnail.jpg?raw=true"/>](https://medium.com/@viridianavz/buyer-persona-qui%C3%A9n-es-y-por-qu%C3%A9-es-importante-6f650a0de873)
 
 ---
 
@@ -16,17 +16,18 @@ Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium]
 - Python
 - R
 - Excel
-- ...
+- Google Analytics
+- QGis
+- Tableou
 
 ---
 
 ### Me puedes contactar por una de estás vías
 
-- [LinkedIn](https://www.linkedin.com/in/tu-linkedin/)
-- Correo electrónico a <correo@gmail.com>
-- [GitHub](https://github.com/tu-github/)
-- [Twitter](https://twitter.com/tu-twitter)
-- [Medium](https://medium.com/@tu-medium)
+- [LinkedIn](https://www.linkedin.com/in/viridianavalencia/)
+- Correo electrónico a <hola@viridiana.com.mx>
+- [GitHub](https://github.com/ViridianaVZ/)
+- [Medium](https://medium.com/@viridianavz)
 - [Mi CV](/pdf/plantilla-curriculum-blanco.pdf)
 
 ---
