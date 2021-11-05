@@ -7,7 +7,7 @@
 
 En este artículo vamos a proponer un ejemplo sobre como definir a nuestro cliente ideal utilizando DataPrep en Python puedes [seguir leyendo en Medium](https://medium.com/@viridianavz/buyer-persona-qui%C3%A9n-es-y-por-qu%C3%A9-es-importante-6f650a0de873) o [Ver código en GitHub](https://github.com/ViridianaVZ/Buyer_Persona)
 
-[<img src="images/dummy_thumbnail.jpg?raw=true"/>](https://medium.com/@viridianavz/buyer-persona-qui%C3%A9n-es-y-por-qu%C3%A9-es-importante-6f650a0de873)
+[<img src="images/dummy_thumbnail.png?raw=true"/>](https://medium.com/@viridianavz/buyer-persona-qui%C3%A9n-es-y-por-qu%C3%A9-es-importante-6f650a0de873)
 
 ---
 
